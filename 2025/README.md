@@ -1,7 +1,7 @@
-# Hands-On Symposium on ARC Communication and Interoperability 2026
+# Hands-On Symposium on ARC Communication and Interoperability 2025
 
 2nd Hands-On Symposium on ARC communication and interoperability
-June 15th to 217th, 2026
+June 23th to 25th, 2025
 
 The symposium is an on-site, in presence event held at the Villa-Denis near Kaiserslautern. It will be held over three days.
 
@@ -38,14 +38,15 @@ In addition to the README, the folder MAY contain additional payload like code s
 
 ## Schedule
 ### Monday
-- Arrival  		            : 11:00 
-- Lunch       	          : 13:00
-- Introduction 	          : 14:00
-- Talk 1 (Patrick Blume)	: 14:30
-- Coffee      	          : 15:30
-- Hands-On     	          : 16:00
-- Dinner      	          : 18:30
-- Open Hacking 	          : 19:30
+- Arrival  		: 11:00 
+- Lunch       	: 12:00
+- Introduction 	: 13:00
+- Talk 1 (Kevin S)	: 14:00
+- Coffee      	: 14:30
+- Talk 2 (Manuel) 	: 15:00
+- Hands-On     	: 15:30
+- Dinner      	: 18:00
+- Open Hacking 	: 18:00
 
 ### Tuesday
 - Discussion  	: 09:00
@@ -54,19 +55,18 @@ In addition to the README, the folder MAY contain additional payload like code s
 - Lunch       	: 12:00
 - Hands-On     	: 13:00
 - Coffee      	: 14:30
-- Get-Out       : 15:00
+- Get-Out       	: 15:00
 - Open Hacking 	: 17:00
 - Dinner      	: 18:00
 
 ### Wednesday
-- Hands-On  	      : 09:00
-- Coffee     		    : 10:30
-- Final Discussion  : 11:00
-- Lunch 		        : 12:00
-- Open Hacking 	    : 13:00
+- Hands-On  	: 09:00
+- Coffee     		: 10:30
+- Final Remarks       	: 11:00
+- Lunch 		: 12:00
+- Open Hacking 	: 13:00
 
 
 ## Previous Instances
 
 - [2024](./2024/README.md)
-- [2025](./2025/README.md)
